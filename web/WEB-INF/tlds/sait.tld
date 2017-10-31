@@ -4,7 +4,7 @@
   <short-name>sait</short-name>
   <uri>/WEB-INF/tlds/sait</uri>
     <tag>
-    <name>DebugTag</name>
+    <name>debug</name>
     <tag-class>tags.DebugTag</tag-class>
     <body-content>scriptless</body-content>
     </tag>
