@@ -1,4 +1,9 @@
-<%@attribute name="login"%>
+<%@attribute name="name"%>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Login Page</title>
+</head>
 
 <h1>Remember me login page</h1>
 <form action="Login" method="post">
